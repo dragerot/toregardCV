@@ -1,4 +1,4 @@
-Success! Created hello-world at D:\code\javascript\hello-world
+Success! Created toregardcv at D:\code\javascript\toregardcv
 Inside that directory, you can run several commands:
 
   npm start

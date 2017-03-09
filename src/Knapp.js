@@ -1,6 +1,6 @@
 import React from "react";
 
-var Knappen = React.createClass(
+var Knapp = React.createClass(
     {
         getInitialState : function () {
             return {counter:0}
@@ -19,4 +19,4 @@ var Knappen = React.createClass(
     }
 );
 
-export default Knappen;
+export default Knapp;

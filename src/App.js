@@ -1,44 +1,22 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
+import React, { Component, PropTypes } from 'react';
+
 import './App.css';
-import Hello from './Form.js';
-import Knappen from './Knapp.js';
-import Meny from './Meny';
-import Timer from './Timer';
-import KundeRegistrer from './KundeRegistrer.react';
 
-function thinksToDo(){
-   console.log("tick");
-}
-
-class App extends Component {
-
-
-    handterbarnKlick(title){
-        console.log("App kaller fra med argumentet: "+title);
-    }
+class App extends React.Component {
 
     render() {
         return (
-            <div className="App">
-                <div className="App-header">
-                    <img src={logo} className="App-logo" alt="logo"/>
-                    <h2 style={{color: "blue" }} >Velkommen til Tore Gard CV</h2>
-                </div>
-                <div className="App-intro">
-                    <Hello toWhat="Tore Gard"/>
-                    <Knappen kallmeg={this.handterbarnKlick} /> <br/>
-                    <Meny list={["2017", "2016", "2015", "2014", "2013"]}/>
-                    <Timer onInterval={thinksToDo} interval={1000}/>
-                    <KundeRegistrer/>
-                    )
-                </div>
+            <div className="container-fluid">
+            <p>Tore Gard CV</p>
+                {this.props.children}
             </div>
-        )
+        );
     }
+}
+
+App.propTypes ={
+    children: PropTypes.object.isRequired
 };
-
-
 
 export default App;
 

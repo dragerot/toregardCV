@@ -1,4 +1,5 @@
 import React from "react";
+import Meny from './Meny';
 
 var Form  = React.createClass({
     handleSubmit: function (e) {
@@ -14,6 +15,7 @@ var Form  = React.createClass({
 
               <input placeholder="søk" ref="login" onChange={this.skrivutinntasting}/>
               <button>Søk</button>
+              <Meny list={["2017", "2016", "2015", "2014", "2013"]}/>
           </form>
         );
     }

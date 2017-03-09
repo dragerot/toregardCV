@@ -1,0 +1,252 @@
+{
+  "records": [
+    {
+      "Year" : "2016",
+      "Type" : "Jobb",
+      "Location" : "Oslo",
+      "CompanyName" : "Capgemini",
+      "Title" : "Java Utvikler",
+      "Description" : "Konsulent"
+    },
+    {
+      "Year" : "2013-",
+      "Type" : "Jobb",
+      "Location" : "Oslo",
+      "CompanyName" : "If P&C Insurance",
+      "Title" : "Java System og -integrasjon utvikler",
+      "Description" : "Backend Camel Java utvikler: Min rolle var å lage klienttilpassede web service tjenester for pris og kjøp. Tjenestene ble benyttet av både interne og eksterne partnere. På teknisk nivå gikk jobben ut på å validere og prosessere inngående forespørsler etter spesifikke regelsett, berike prosessgangen med nødvendige data fra oppslag mot hjelpetjenester og videresende forespørslene til Skadeforsikring sitt sentrale pris- og kjøpsystem. I noen tilfeller utvidet vi funksjonaliteten til kjernesystemet. Satt opp sentralisert logging med ElasticSearch"
+    },
+    {
+      "Year" : "2012-høst",
+      "Type" : "Jobb",
+      "Location" : "Oslo",
+      "CompanyName" : "If P&C Insurance",
+      "Title" : "C# System utvikler",
+      "Description" : "Prottype integrasjon mot IBM Websphere Processerver Human Task motor. Kodet i programmeringsspråket C# og ASP.NET"
+    },
+    {
+      "Year" : "2008-2012",
+      "Type" : "Jobb",
+      "Location" : "Oslo",
+      "CompanyName" : "If P&C Insurance",
+      "Title" : "Java System og -integrasjon utvikler",
+      "Description" : "Backend BPM prosess/SOA/Java: Utvikling av nye nordiske prosesser for skadeoppgjør. Prosjektet bidro til betydelig økt automatisering av oppgjørsprosesser og utvikling av løsninger både for interne brukere og for nettløsningen for våre kunder. Min jobb var å benytte de nyeste IBM verktøyene innen integrasjon og SOA til å implementere disse forretningsutfordringene. Stikkord: BPEL prosess utvikling, Human Task aktiviter, long running prosesser og regelmaskiner"
+    },
+    {
+      "Year" : "2003-2008",
+      "Type" : "Jobb",
+      "Location" : "Oslo",
+      "CompanyName" : "DB Schenker Norge Logistikk",
+      "Title" : "C#: Web-, System- og -integrasjon utvikler",
+      "Description" : "Utvikle, vedlikeholde og adminstrere web portaler andre webservice tjenester mot kunde og leverandør. Utvikle og vedlikehold av backend logistikk systemer. Benyttet  Powerbuilder, Java og C#, MS SQL Server ov Sybase"
+    },
+    {
+      "Year" : "1997-2003",
+      "Type" : "Jobb",
+      "Location" : "Oslo",
+      "CompanyName" : "DB Schenker Norge Logistikk",
+      "Title" : "Java: Web-, System- og -integrasjon utvikler",
+      "Description" : "Utvikle, vedlikeholde og adminstrere web portaler andre webservice tjenester mot kunde og leverandør. Utvikle og vedlikehold av backend logistikk systemer. Benyttet  Powerbuilder, Java og C#, MS SQL Server ov Sybase"
+    },
+    {
+      "Year" : "1995",
+      "Type" : "Jobb",
+      "Location" : "Oslo",
+      "CompanyName" : "Statens datasentral ",
+      "Title" : "IT System Developer",
+      "Description" : "Teknisk support og programutvikling med pensjonssystem SDS Pensjon. Det objektorienterte språket Dataflex ble benyttet. Teknisk support og programutvikling med Internkontroll-produktet IK-Data. Verktøyet Paradox for Windows ble benyttet. Programutvikling  med saksbehandlersystem Modulink/SakArkiv. Verktøyet Powerbuilder ble benyttet"
+    },
+    {
+      "Year" : "1994",
+      "Type" : "Jobb",
+      "Location" : "Ski",
+      "CompanyName" : "Brødrene Johnsen AS",
+      "Title" : "Selvstendig programmering  innkjøpssystem",
+      "Description" : "Systemere og realisere en innkjøpsdatabase for materialkontroll. Test og gjøre nødvendige tilpasninger for at et jobbkort-strekkodeprogram fungerte tilfredsstillende. Lærte opp ansatte til å bruke systemet. All kodingen ble gjort i Dataflex 3.01"
+    },
+    {
+      "Year" : "1993",
+      "Type" : "Jobb",
+      "Location" : "Ski",
+      "CompanyName" : "Brødrene Johnsen AS",
+      "Title" : "Selvstendig programmerer produksjonplanlegging og styringssystem",
+      "Description" : "Videreutvikle og kjøre igang et produksjonplanlegging og styringssystem. Programmering Dataflex 3"
+    },
+    {
+      "Year" : "1992",
+      "Type" : "Jobb",
+      "Location" : "Oslo",
+      "CompanyName" : "TANDBERG DATA datalagringproduksjon",
+      "Title" : "Production Engineering",
+      "Description" : "Driftsansvar av robotcelle og dokumentasjon på software og hardware"
+    },
+    {
+      "Year" : "1991",
+      "Type" : "Jobb",
+      "Location" : "Oslo",
+      "CompanyName" : "PERSONAL BYRÅET",
+      "Title" : "Ansvarlig for EDB-avdelingen i en overgangperiode",
+      "Description" : "Igangkjøring av nytt vikarsystem"
+    },
+    {
+      "Year" : "2015",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "ProgramUtvikling",
+      "Title" : "Elasticsearch Boot Camp",
+      "Description" : "Big data med ElasticSearch, Kibana og Logstash kurs. Certificate of Achievement"
+    },
+    {
+      "Year" : "2013",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "ProgramUtvikling",
+      "Title" : "C#.NET: utvikling av applikasjoner i .NET med C#",
+      "Description" : "ElasticSearch, Kibana og Logstash kurs. Certificate of Achievement"
+    },
+    {
+      "Year" : "2010",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "Bouvet",
+      "Title" : "Certified Scrum Master -CSM",
+      "Description" : "Lære seg å benytte Scrum teknikk"
+    },
+    {
+      "Year" : "2004",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "Knowledge Group",
+      "Title" : "Infopath Grunnleggende",
+      "Description" : ""
+    },
+    {
+      "Year" : "2004",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "ajourit",
+      "Title" : "BizTalk Server 2004",
+      "Description" : "2158 Deploying and managing E-business Solutions using Microsoft BizTalk Server 2004"
+    },
+    {
+      "Year" : "2004",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "ajourit",
+      "Title" : "BizTalk Server 2004",
+      "Description" : "2157 Developing E-Business Solutions using Microsoft BizTalk Server 2004"
+    },
+    {
+      "Year" : "2003",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "Norstella",
+      "Title" : "Teknisk realisering basert på ebXML",
+      "Description" : ""
+    },
+    {
+      "Year" : "2002",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "Institutt for Informatikk UiO",
+      "Title" : "Modellbasert systemutvikling med UML",
+      "Description" : ""
+    },
+    {
+      "Year" : "2001",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "Den Norske dataforening",
+      "Title" : "Objektorientering systemutvikling",
+      "Description" : ""
+    },
+    {
+      "Year" : "2001",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "Sun Microsystems",
+      "Title" : "Java:Programmering med Enterprise JavaBeans",
+      "Description" : "Java"
+    },
+    {
+      "Year" : "1999",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "Silverstream Norge AS",
+      "Title" : "Java: Programming Fundamentals",
+      "Description" : "Java development tool"
+    },
+    {
+      "Year" : "1997",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "Sybase",
+      "Title" : "Sybase database: Introduction to SQL og Fast Track to SQL Server",
+      "Description" : "Sybase database"
+    },
+    {
+      "Year" : "1997",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "Sybase",
+      "Title" : "Fast Track to PowerBuilder",
+      "Description" : "Powerbuilder kurs"
+    },
+    {
+      "Year" : "1991-93",
+      "Type" : "Skole",
+      "Location" : "Oslo",
+      "CompanyName" : "NHHK",
+      "Title" : "Bedriftsøkonomi",
+      "Description" : ""
+    },
+    {
+      "Year" : "1991",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "NHI",
+      "Title" : "Prosjektleder kurs",
+      "Description" : ""
+    },
+    {
+      "Year" : "1990",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "NIF",
+      "Title" : "Praktisk prosjektstyring",
+      "Description" : ""
+    },
+    {
+      "Year" : "1990",
+      "Type" : "Kurs",
+      "Location" : "Oslo",
+      "CompanyName" : "EDB skolen IBM",
+      "Title" : "System- og databaseprogrammering i AS 400",
+      "Description" : ""
+    },
+    {
+      "Year" : "1985-1990",
+      "Type" : "Skole",
+      "Location" : "Trondheim",
+      "CompanyName" : "NTNU",
+      "Title" : "NTNU: produkt-utvikling og produksjon (MSc)",
+      "Description" : "Retning for informasjonsteknologi, hovedoppgave gikk ut på å utvikle et prototype styresystem for automatisk vogn i programmeringsspråket C."
+    },
+    {
+      "Year" : "1985-1996",
+      "Type" : "Skole",
+      "Location" : "Setermoen",
+      "CompanyName" : "Hæren",
+      "Title" : "Infanteriet",
+      "Description" : ""
+    },
+    {
+      "Year" : "1984",
+      "Type" : "Skole",
+      "Location" : "Kolbotn",
+      "CompanyName" : "Oppegård videregående skole",
+      "Title" : "Eksamen Artium",
+      "Description" : ""
+    }
+  ]
+}

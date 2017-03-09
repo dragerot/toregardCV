@@ -1,9 +1,9 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
+  animation: App-logo-spin infinite 2s linear;
   height: 80px;
 }
 
@@ -16,9 +16,12 @@
 
 .App-intro {
   font-size: large;
+  padding-left: 10px;
+  padding-top: 10px;
 }
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+  to { transform: rotate(66deg); }
 }

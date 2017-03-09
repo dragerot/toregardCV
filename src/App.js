@@ -1,31 +1,44 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Hello from './Hello.js';
+import Hello from './Form.js';
 import Knappen from './Knapp.js';
+import Meny from './Meny';
+import Timer from './Timer';
+import KundeRegistrer from './KundeRegistrer.react';
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Velkommen til Tore Gard CV</h2>
-            <Hello toWhat="World Booler" />
-
-        </div>
-
-              <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-          <div>
-
-              <Knappen />
-          </div>
-      </div>
-
-    );
-  }
+function thinksToDo(){
+   console.log("tick");
 }
 
+class App extends Component {
+
+
+    handterbarnKlick(title){
+        console.log("App kaller fra med argumentet: "+title);
+    }
+
+    render() {
+        return (
+            <div className="App">
+                <div className="App-header">
+                    <img src={logo} className="App-logo" alt="logo"/>
+                    <h2 style={{color: "blue" }} >Velkommen til Tore Gard CV</h2>
+                </div>
+                <div className="App-intro">
+                    <Hello toWhat="Tore Gard"/>
+                    <Knappen kallmeg={this.handterbarnKlick} /> <br/>
+                    <Meny list={["2017", "2016", "2015", "2014", "2013"]}/>
+                    <Timer onInterval={thinksToDo} interval={1000}/>
+                    <KundeRegistrer/>
+                    )
+                </div>
+            </div>
+        )
+    }
+};
+
+
+
 export default App;
+
